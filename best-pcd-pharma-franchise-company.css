@@ -1,0 +1,52 @@
+.category {
+    width: 100%;
+    height: 1030px;
+}
+
+.category-heading {
+    width: 100%;
+    height: 50px;
+}
+
+.category-heading h2 {
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 50px;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 55px;
+}
+
+.category-box {
+    width: 90%;
+    margin: auto;
+    height: 900px;
+}
+
+.product-box1 {
+    width: 100%;
+    height: 480px;
+}
+
+.product-image {
+    width: 33%;
+    float: left;
+    height: 450px;
+}
+
+.product-box1 h1 {
+    margin: 0px 130px 0px;
+    text-transform: capitalize;
+}
+
+
+.product-box2 {
+    width: 100%;
+    height: 480px;
+}
+
+.product-box2 h1 {
+    margin: 0px 130px 0px;
+    text-transform: capitalize;
+}
+

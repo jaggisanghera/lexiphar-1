@@ -1,0 +1,5 @@
+Directoryindex index.php
+
+AddHandler application/x-httpd-php7 .php .html
+
+ErrordDoccument 404/404.php
