@@ -40,6 +40,7 @@
 		</section>
   <br>
     <section class="healthcare">
+	    <div class="healthcare222">
   <div class="health">
     <div class="left">
       <img src="newimages/lab.png">
