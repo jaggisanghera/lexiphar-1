@@ -40,7 +40,7 @@
 		</section>
   <br>
     <section class="healthcare">
-	    
+
   <div class="health">
     <div class="left">
       <img src="newimages/lab.png">
@@ -179,8 +179,14 @@
     </div>
     <!-- END OF SINGLE BANNER SECTION -->
 
+    </div>
   <br>
   <br>
+
+
+<div class="container ">
+  
+</div>
 
 <!-- FOOTER SECTION GOES FROM HERE  -->
 <?php include 'includes/footer.php'; ?>
